@@ -27,7 +27,7 @@ os.environ['CUDA_VISIBLE_DEVICES'] = '-1'  # Explicitly disable GPU
 
 # broker = '192.168.203.7'
 # port = 1883
-# topic = 'nilesh'
+# topic = 'navaneeta'
 # # Generate a Client ID with the subscribe prefix.
 # client_id = f'subscribe-{random.randint(0, 100)}'
 # # client_id = f'mqttx_7dd103e7'
